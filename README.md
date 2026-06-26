@@ -1,0 +1,1 @@
+Simulation of C. elegans behavior in a vertical tube filled with liquid. The N2 strain can sense gravitaiton direction and cat-2 strain cannot. The N2 prefer to swimming downward. They also prefer to pin to solid walls. The behaviors are simulated by Monte Carlo method according to the measured angle distribution and pinning time.
